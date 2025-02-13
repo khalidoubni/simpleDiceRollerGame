@@ -7,7 +7,7 @@ public class Main {
         Random rand = new Random();
         int numberOfDice;
         int total = 0;
-        System.out.print("Enter the number of dice: ");
+        System.out.print("Enter the number of dice:  ");
         numberOfDice = sc.nextInt();
         int dice;
 
